@@ -1,0 +1,6 @@
+class toe
+{
+    int x=0;
+    if(x++)
+    { System.out.print(1)}
+}
